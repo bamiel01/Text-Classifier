@@ -1,5 +1,3 @@
-import subprocess
-
 from transformers import BertTokenizerFast, BertForSequenceClassification, Trainer, TrainingArguments
 from sklearn.model_selection import train_test_split
 import pandas as pd
