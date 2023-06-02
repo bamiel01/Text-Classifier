@@ -20,3 +20,5 @@ The output after training will be `config.json`, `pytorch_model.bin`, and `train
 
 
 
+To get the data, you can use [this repo](https://github.com/bamiel01/Get-Messages) to extract the data from your computer (Mac only). The result will be `handle_id`s instead of names, which you can manually change (should be trivial: find, replace all feature).
+
